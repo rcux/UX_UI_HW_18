@@ -1,0 +1,76 @@
+.navBar {
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   /* border: ;  
+    background-color: rgb(218, 228, 228);*/
+}
+#wordTwo { 
+color: green;     
+text-align: center; 
+float: right; 
+}
+#nav{
+    float:right;
+}
+
+#backGround {
+    /* to get background screen split color-used color gradient. */
+    background:linear-gradient( to right, #1DB99E 50%, black 50%);
+}
+.centerLeft {
+    position: absolute;
+    color:black;
+font-size: 100px;
+    width: 100px;
+    height: 50px;
+    top: 50%;
+    left: 20%;
+    margin-left: -50px; /* margin is -0.5 * dimension */
+    margin-top: -25px; 
+    
+}
+.center {
+    position: absolute;
+    color:#F9EBBE;
+    font-size: 30px;
+    width: 100px;
+    height: 50px;
+    top: 120%;
+    left: 468%;
+    margin-left: -50px; /* margin is -0.5 * dimension */
+    margin-top: -25px; 
+}
+.centerRight {
+    position: absolute;
+    color:white;
+    font-size: 100px;
+    width: 100px;
+    height: 50px;
+    top: 50%;
+    left: 580%;
+    margin-left: -50px; /* margin is -0.5 * dimension */
+    margin-top: -25px; 
+    
+}
+ul{
+    color:white;
+}
+
+#footer{
+    display: inline-block;
+        margin:0 auto;
+        width:834px;
+        height:auto;
+        overflow:hidden;
+        position:fixed;
+        bottom: 0px;
+        
+}
+
+.bigbold{
+text-shadow: hsl(hue, saturation, lightness);
+font-size: larger;
+font-family:'Lausanne', sans-serif;

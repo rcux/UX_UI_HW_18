@@ -1,0 +1,19 @@
+    h4 {
+    color: #FFFFF !important;
+    font-size: 2em;
+    padding-top: 100px;
+    width: 100%;
+    font-family: Poppins;
+    text-align: center;
+  }
+  
+  p {
+    color: rgb(0, 126, 236);
+    line-height: 1.3em;
+    text-align: left;
+    width: 100%;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
